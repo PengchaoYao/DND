@@ -13,4 +13,4 @@ Code for several attacks to our local testbed and corresponding flows
 7.TCP-UDP-Flood-master contains code to launch a TCP-UDP-Flooding attack.  
 8.UDP_Flood-master contains code to launch a UDP-Flooding attack.   
 9.Primary_test(TCP UDP connection) contains some primary tests such as TCP and UDP connection.  
-10.系统对应指令脚本和包的信息 contains some nstruction scripts and corresponding information.  
+10.Scripts for some actions contains some nstruction scripts and corresponding information.  
